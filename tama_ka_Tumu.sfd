@@ -4,7 +4,7 @@ FullName: tama ka Tumu - pula
 FamilyName: tama ka Tumu
 Weight: Normal
 Copyright: ka Ke Tami, based on "kiku upi ala", Copyright Kelsey Higham 2022, and drawings by ka Tumu
-Version: 1.0
+Version: 1.1
 ItalicAngle: 0
 UnderlinePosition: -119
 UnderlineWidth: 35
@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1672212296
-ModificationTime: 1673620761
+ModificationTime: 1707418259
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -79,7 +79,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "pula" "" "" "Version 1.0" "" "" "" "ka Ke Tami, ka Tumu, Kelsey Higham" "a font for tuki tiki, a minimalist constructed language in the tokiponido family" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "pula" "" "" "Version 1.1" "" "" "" "ka Ke Tami, ka Tumu, Kelsey Higham" "a font for tuki tiki, a minimalist constructed language in the tokiponido family" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 2 0
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -87,10 +87,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1113896 28 10
+WinInfo: 1113885 27 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114151 60
+BeginChars: 1114152 61
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -154,7 +154,7 @@ SplineSet
  616.358398438 402.540039062 616.358398438 402.540039062 546.55078125 371.188476562 c 4,8,9
  500.71875 349.62109375 500.71875 349.62109375 463.427734375 372.145507812 c 4,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: colon
@@ -178,7 +178,7 @@ SplineSet
  616 223 616 223 546.55078125 191.188476562 c 0,18,19
  501 170 501 170 463.427734375 192.145507812 c 0,10,11
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: bracketleft
@@ -292,7 +292,7 @@ SplineSet
  561.807617188 243.19140625 561.807617188 243.19140625 550.547851562 233.006835938 c 0,21,22
  528.814453125 213.34765625 528.814453125 213.34765625 489.338867188 229.190429688 c 0,10,11
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: i
@@ -352,7 +352,7 @@ SplineSet
  574.670898438 555.759765625 l 5,57,58
  583.901367188 559.314453125 583.901367188 559.314453125 583.901367188 561.717773438 c 6,55,-1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: k
@@ -607,7 +607,7 @@ SplineSet
  292.708984375 88.716796875 292.708984375 88.716796875 265.053710938 88.716796875 c 4,50,51
  244.741210938 88.716796875 244.741210938 88.716796875 235.333007812 106.876953125 c 4,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 2 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" a l a
 EndChar
@@ -661,7 +661,7 @@ SplineSet
  383.03515625 251.853515625 383.03515625 251.853515625 496.56640625 251.180664062 c 4,55,30
  577.162109375 250.69140625 577.162109375 250.69140625 613.607421875 265.354492188 c 132,-1,31
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 2 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" i k u
 EndChar
@@ -711,6 +711,7 @@ SplineSet
  559.8203125 120.526367188 559.8203125 120.526367188 550.138671875 110.844726562 c 0,53,54
  529.778320312 90.4853515625 529.778320312 90.4853515625 487.350585938 107.536132812 c 0,0,1
 EndSplineSet
+Validated: 33
 LCarets2: 2 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" i l u
 EndChar
@@ -776,7 +777,7 @@ SplineSet
  691.884765625 374.145507812 691.884765625 374.145507812 645.22265625 373.461914062 c 132,-1,74
  598.559570312 372.779296875 598.559570312 372.779296875 581.38671875 381.463867188 c 4,63,64
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" k a
 EndChar
@@ -834,7 +835,7 @@ SplineSet
  554.997070312 6.1337890625 554.997070312 6.1337890625 545.443359375 -3.4384765625 c 0,77,78
  524.196289062 -24.666015625 524.196289062 -24.666015625 482.655273438 -6.7470703125 c 0,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" k a t i
 EndChar
@@ -899,7 +900,7 @@ SplineSet
  495.509765625 -117.830078125 495.509765625 -117.830078125 442.752929688 -119.85546875 c 4,91,92
  390.01953125 -121.6796875 390.01953125 -121.6796875 371.186523438 -110.080078125 c 4,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" k i
 EndChar
@@ -986,7 +987,7 @@ SplineSet
  554.874023438 73.619140625 554.874023438 73.619140625 559.221679688 73.9736328125 c 0,133,134
  564.114257812 73.619140625 564.114257812 73.619140625 593.435546875 105.424804688 c 0,80,81
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" k i k u
 EndChar
@@ -1045,7 +1046,7 @@ SplineSet
  358.5234375 105.919921875 358.5234375 105.919921875 335.642578125 90.380859375 c 0,80,81
  297.510742188 64.51171875 297.510742188 64.51171875 261.010742188 82.166015625 c 0,43,44
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" k u
 EndChar
@@ -1082,7 +1083,7 @@ SplineSet
  526.736328125 -51.427734375 526.736328125 -51.427734375 423.771484375 -51.337890625 c 0,40,41
  362.274414062 -51.337890625 362.274414062 -51.337890625 346.771484375 -43.5546875 c 0,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" l a
 EndChar
@@ -1136,7 +1137,7 @@ SplineSet
  406.666015625 465.2421875 l 5,48,-1
  406.666015625 489.88671875 l 6,42,43
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" l i
 EndChar
@@ -1186,7 +1187,7 @@ SplineSet
  724.627929688 187.775390625 724.627929688 187.775390625 680.504882812 188.045898438 c 128,-1,55
  636.36328125 188.3203125 636.36328125 188.3203125 614.087890625 196.280273438 c 0,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" l i k a
 EndChar
@@ -1243,7 +1244,7 @@ SplineSet
  222.313476562 338.83984375 222.313476562 338.83984375 169.208984375 327.399414062 c 132,-1,61
  116.104492188 315.958984375 116.104492188 315.958984375 96.5087890625 323.98046875 c 4,50,51
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" l i l i
 EndChar
@@ -1318,7 +1319,7 @@ SplineSet
  233.067382812 10.189453125 233.067382812 10.189453125 221.100585938 -1.7783203125 c 0,89,90
  195.34375 -27.5341796875 195.34375 -27.5341796875 152.221679688 -4.1279296875 c 0,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" l i t i
 EndChar
@@ -1341,7 +1342,7 @@ SplineSet
  876.997070312 -0.5224609375 876.997070312 -0.5224609375 522.444335938 -0.169921875 c 4,12,13
  96.3251953125 0.2314453125 96.3251953125 0.2314453125 83.1533203125 6.6171875 c 4,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" l u
 EndChar
@@ -1387,7 +1388,7 @@ SplineSet
  920.694335938 -47.09375 920.694335938 -47.09375 882.895507812 -47.16796875 c 128,-1,38
  845.096679688 -47.2431640625 845.096679688 -47.2431640625 823.56640625 -37.896484375 c 0,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" l u p a
 EndChar
@@ -1448,7 +1449,7 @@ SplineSet
  574.223632812 197.0625 l 2,62,53
  594.204101562 212.235351562 594.204101562 212.235351562 618.889648438 220.110351562 c 128,-1,54
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" m i
 EndChar
@@ -1489,7 +1490,7 @@ SplineSet
  395.0390625 285.36328125 395.0390625 285.36328125 485.63671875 284.799804688 c 4,37,25
  560.583984375 284.340820312 560.583984375 284.340820312 588.8046875 296.435546875 c 132,-1,26
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" m u k u
 EndChar
@@ -1573,6 +1574,7 @@ SplineSet
  752.323242188 585.366210938 752.323242188 585.366210938 812.5546875 585.366210938 c 128,-1,101
  872.762695312 585.366210938 872.762695312 585.366210938 887.129882812 595.423828125 c 0,89,90
 EndSplineSet
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" m u t i
 EndChar
@@ -1648,7 +1650,7 @@ SplineSet
  302.854492188 477.413085938 302.854492188 477.413085938 302.649414062 470.154296875 c 0,96,97
  300.893554688 413.998046875 300.893554688 413.998046875 211.475585938 449.926757812 c 0,44,45
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" p a k a
 EndChar
@@ -1719,7 +1721,7 @@ SplineSet
  410.436523438 525.328125 410.436523438 525.328125 490.451171875 528.71875 c 128,-1,85
  570.466796875 532.109375 570.466796875 532.109375 594.048828125 541.370117188 c 0,69,70
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" p a l i
 EndChar
@@ -1760,7 +1762,7 @@ SplineSet
  312.514648438 143.063476562 312.514648438 143.063476562 302.616210938 133.165039062 c 4,39,40
  282.270507812 112.819335938 282.270507812 112.819335938 239.828125 129.875 c 4,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" p u k a
 EndChar
@@ -1797,7 +1799,7 @@ SplineSet
  461.345703125 158.83984375 l 6,32,33
  370.392578125 159.096679688 370.392578125 159.096679688 347.162109375 167.374023438 c 4,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" p u l a
 EndChar
@@ -1892,7 +1894,7 @@ SplineSet
  548.96875 722.185546875 l 1,85,-1
  558.197265625 722.185546875 l 1,84,-1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" t a k a
 EndChar
@@ -1929,7 +1931,7 @@ SplineSet
  856.235351562 531.77734375 856.235351562 531.77734375 639.95703125 531.98828125 c 0,33,17
  380.149414062 532.216796875 380.149414062 532.216796875 359.403320312 541.21875 c 128,-1,18
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" t a m a
 EndChar
@@ -2008,7 +2010,7 @@ SplineSet
  493.2578125 -36.7099609375 493.2578125 -36.7099609375 405.373046875 -36.46484375 c 128,-1,0
  317.48828125 -36.2392578125 317.48828125 -36.2392578125 298.764648438 -28.0625 c 128,-1,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" t i k i
 EndChar
@@ -2041,7 +2043,7 @@ SplineSet
  930.224609375 -12.20703125 930.224609375 -12.20703125 920.393554688 -22.0380859375 c 0,22,23
  899.862304688 -42.5693359375 899.862304688 -42.5693359375 857.435546875 -25.4970703125 c 0,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" t i k u
 EndChar
@@ -2102,7 +2104,7 @@ SplineSet
  658.122070312 545.090820312 l 1,61,-1
  721.455078125 555.862304688 l 1,52,53
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" t i l a
 EndChar
@@ -2191,7 +2193,7 @@ SplineSet
  816.823242188 462.537109375 816.823242188 462.537109375 789.208007812 449.870117188 c 0,115,116
  720.0703125 418.15234375 720.0703125 418.15234375 674.478515625 444.663085938 c 0,57,58
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" t i l u
 EndChar
@@ -2240,7 +2242,7 @@ SplineSet
  481.013671875 171.40234375 481.013671875 171.40234375 440.05078125 171.40234375 c 4,54,10
  418.469726562 171.40234375 418.469726562 171.40234375 400.4609375 189.411132812 c 132,-1,11
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" t i m i
 EndChar
@@ -2278,7 +2280,7 @@ SplineSet
  902.021484375 -61.4697265625 902.021484375 -61.4697265625 800.94140625 -61.62109375 c 128,-1,32
  699.861328125 -61.7724609375 699.861328125 -61.7724609375 676.274414062 -51.5361328125 c 0,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" t i p i
 EndChar
@@ -2341,7 +2343,7 @@ SplineSet
  201.290039062 709.500976562 201.290039062 709.500976562 179.141601562 700.251953125 c 0,67,68
  124.370117188 677.369140625 124.370117188 677.369140625 72.8525390625 699.80078125 c 0,52,53
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" t i t i
 EndChar
@@ -2378,7 +2380,7 @@ SplineSet
  744.451171875 47.7265625 744.451171875 47.7265625 734.766601562 38.0419921875 c 4,32,33
  714.420898438 17.6953125 714.420898438 17.6953125 671.978515625 34.751953125 c 4,17,18
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" t u
 EndChar
@@ -2476,7 +2478,7 @@ SplineSet
 116.466796875 679.77734375 m 5,123,124
  116.466796875 704.416992188 116.466796875 704.416992188 116.466796875 778.336914062 c 1029,125,126
 EndSplineSet
-Validated: 524323
+Validated: 35
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" t u k i
 EndChar
@@ -2557,7 +2559,7 @@ SplineSet
  562.385742188 162.446289062 562.385742188 162.446289062 510.418945312 161.711914062 c 128,-1,103
  458.452148438 160.977539062 458.452148438 160.977539062 441.202148438 170.526367188 c 0,91,92
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" t u l a
 EndChar
@@ -2626,7 +2628,7 @@ SplineSet
  289.9921875 312.659179688 289.9921875 312.659179688 402.166992188 311.819335938 c 4,80,60
  467.958007812 311.334960938 467.958007812 311.334960938 514.884765625 329.395507812 c 132,-1,61
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" t u l u
 EndChar
@@ -2635,7 +2637,7 @@ StartChar: uli
 Encoding: 1114149 -1 54
 Width: 1024
 GlyphClass: 1
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -2685,6 +2687,7 @@ SplineSet
  548.026367188 -59.5751953125 548.026367188 -59.5751953125 490.787109375 -59.498046875 c 0,73,74
  472.017578125 -59.498046875 472.017578125 -59.498046875 453.490234375 -48.181640625 c 0,0,1
 EndSplineSet
+Validated: 33
 LCarets2: 2 0 0
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" u l i
 EndChar
@@ -2742,9 +2745,9 @@ SplineSet
  396.586914062 68.6318359375 396.586914062 68.6318359375 451.987304688 68.70703125 c 132,-1,69
  507.387695312 68.7626953125 507.387695312 68.7626953125 547.692382812 81.9970703125 c 4,54,55
 EndSplineSet
-Validated: 524321
-LCarets2: 2 0 0
+Validated: 33
 Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" u p i
+LCarets2: 2 0 0
 EndChar
 
 StartChar: exclam
@@ -2779,8 +2782,129 @@ Encoding: 45 45 59
 Width: -1024
 Flags: W
 LayerCount: 2
+EndChar
+
+StartChar: lapi
+Encoding: 1114151 -1 60
+Width: 1024
+Flags: W
+LayerCount: 2
 Fore
-Validated: 1
+SplineSet
+709.1953125 735.850585938 m 0,0,1
+ 722.692382812 735.876953125 722.692382812 735.876953125 744.423828125 735.0234375 c 0,2,3
+ 822.321289062 731.967773438 822.321289062 731.967773438 886.205078125 692.801757812 c 0,4,5
+ 937.493164062 661.336914062 937.493164062 661.336914062 973.206054688 567.337890625 c 0,6,7
+ 998.033203125 502.03125 998.033203125 502.03125 966.6640625 412.736328125 c 0,8,9
+ 953.80859375 376.1484375 953.80859375 376.1484375 948.241210938 365.739257812 c 0,10,11
+ 935.259765625 341.4765625 935.259765625 341.4765625 855.86328125 314.53125 c 0,12,13
+ 810.07421875 299.002929688 810.07421875 299.002929688 705.435546875 299.4921875 c 128,-1,14
+ 600.7578125 299.970703125 600.7578125 299.970703125 584.408203125 304.90625 c 0,15,16
+ 431.310546875 351.16796875 431.310546875 351.16796875 431.310546875 464.094726562 c 0,17,18
+ 431.310546875 502.21875 431.310546875 502.21875 239.224609375 502.21875 c 0,19,20
+ 32.541015625 522.614257812 32.541015625 522.614257812 32.3994140625 550.569335938 c 0,21,22
+ 50.30859375 588.293945312 50.30859375 588.293945312 249.563476562 589.032226562 c 0,23,24
+ 415.859375 589.647460938 415.859375 589.647460938 429.806640625 593.65625 c 128,-1,25
+ 443.643554688 597.634765625 443.643554688 597.634765625 482.40625 635.540039062 c 128,-1,26
+ 521.09375 673.395507812 521.09375 673.395507812 543.877929688 679.6796875 c 128,-1,27
+ 566.633789062 685.966796875 566.633789062 685.966796875 582.453125 698.403320312 c 128,-1,28
+ 598.331054688 710.88671875 598.331054688 710.88671875 638.473632812 724.233398438 c 0,29,30
+ 673.12890625 735.759765625 673.12890625 735.759765625 709.1953125 735.850585938 c 0,0,1
+  Spiro
+    709.195 735.851 o
+    724.751 735.657 o
+    744.424 735.024 o
+    818.818 722.94 o
+    886.205 692.802 o
+    933.599 645.703 o
+    973.206 567.338 o
+    983.984 496.034 o
+    966.664 412.737 o
+    955.63 382.693 o
+    948.241 365.74 o
+    918.656 340.806 o
+    855.864 314.532 o
+    795.362 303.008 o
+    705.435 299.493 o
+    622.84 301.085 o
+    584.408 304.907 o
+    469.585 367.834 o
+    431.311 464.095 o
+    383.289 492.688 o
+    239.224 502.219 o
+    81.1043 514.307 o
+    32.3997 550.57 o
+    95.6453 579.047 o
+    249.564 589.032 o
+    377.773 590.496 o
+    429.807 593.657 o
+    449.875 606.116 o
+    482.406 635.54 o
+    517.118 665.503 o
+    543.878 679.68 o
+    564.9 687.504 o
+    582.453 698.404 o
+    604.397 711.103 o
+    638.474 724.233 o
+    673.482 732.901 o
+    0 0 z
+  EndSpiro
+735.814453125 649.977539062 m 0,31,32
+ 686.544921875 649.872070312 686.544921875 649.872070312 607.155273438 593.092773438 c 0,33,34
+ 517.52734375 529.002929688 517.52734375 529.002929688 518.19921875 489.88671875 c 0,35,36
+ 518.775390625 455.499023438 518.775390625 455.499023438 573.4296875 414.69140625 c 0,37,38
+ 612.095703125 385.828125 612.095703125 385.828125 698.517578125 385.440429688 c 0,39,40
+ 759.41796875 385.166015625 759.41796875 385.166015625 802.173828125 400.592773438 c 0,41,42
+ 865.958007812 423.59375 865.958007812 423.59375 879.850585938 464.734375 c 2,43,-1
+ 892.220703125 501.391601562 l 1,44,-1
+ 874.173828125 539.553710938 l 2,45,46
+ 821.874023438 650.139648438 821.874023438 650.139648438 735.814453125 649.977539062 c 0,31,32
+  Spiro
+    735.814 649.978 o
+    679.015 635.703 o
+    607.155 593.093 o
+    540.102 535.246 o
+    518.199 489.887 o
+    532.295 453.894 o
+    573.43 414.692 o
+    624.035 392.947 o
+    698.517 385.441 o
+    754.882 389.091 o
+    802.174 400.593 o
+    853.485 428.129 o
+    879.851 464.734 [
+    892.22 501.392 v
+    874.174 539.554 ]
+    813.434 622.453 o
+    0 0 z
+  EndSpiro
+406.665039062 489.88671875 m 2,47,48
+ 406.665039062 514.513671875 406.665039062 514.513671875 401.006835938 514.513671875 c 128,-1,49
+ 395.357421875 514.513671875 395.357421875 514.513671875 375.854492188 489.88671875 c 2,50,-1
+ 356.340820312 465.2421875 l 1,51,-1
+ 381.494140625 465.2421875 l 1,52,-1
+ 406.665039062 465.2421875 l 1,53,-1
+ 406.665039062 489.88671875 l 2,47,48
+  Spiro
+    406.666 489.887 ]
+    405.251 508.357 o
+    401.007 514.514 o
+    391.894 508.357 o
+    375.854 489.887 [
+    356.341 465.242 v
+    381.494 465.242 v
+    406.666 465.242 v
+    0 0 z
+  EndSpiro
+406.666015625 489.88671875 m 2,54,55
+ 406.666015625 514.513671875 406.666015625 514.513671875 401.006835938 514.513671875 c 128,-1,56
+ 395.357421875 514.513671875 395.357421875 514.513671875 375.854492188 489.88671875 c 2,57,-1
+ 356.340820312 465.2421875 l 1,58,-1
+ 381.494140625 465.2421875 l 1,59,-1
+ 406.666015625 465.2421875 l 1,60,-1
+ 406.666015625 489.88671875 l 2,54,55
+EndSplineSet
+Ligature2: "'clig' Kontextuelle Ligaturen in Lateinisch Nachschlagetabelle 0 Subtabelle" l a p i 
 EndChar
 EndChars
 EndSplineFont
